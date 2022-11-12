@@ -1,7 +1,7 @@
 # C.CSS-J.Torre-02-FlexBox-Basicos
 - [Enlace](https://santetes.github.io/C.CSS-J.Torre-02-FlexBox-Basicos/) para ver el resultado del ejercicio
 
-
+```css
 :root {
     --azul: #0071b7;
     --blanco: #FFF;
@@ -209,3 +209,4 @@ h1, h2 {
     /* Esto es lo mismo que: */
     flex: 1 1 33.3%
 }
+```
